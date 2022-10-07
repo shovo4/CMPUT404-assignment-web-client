@@ -93,3 +93,5 @@ if __name__ == "__main__":
         print(client.command( sys.argv[2], sys.argv[1] ))
     else:
         print(client.command( sys.argv[1] ))
+
+#edit
